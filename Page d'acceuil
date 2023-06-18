@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>
+        I Place
+    </title>
+
+<!--LIEN CSS-->
+<link rel="stylesheet" href="Style.css">
+<!--TITRE DE LA PAGE-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+<!--INFORMATIONS-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+<!--TEXTE POUR "EXPERIENCE OPTIMAL"-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Roboto+Condensed:wght@700&family=Roboto:wght@100&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!--TITRE-->
+<h1>
+    Bienvenue
+</h1>
+
+<br/>
+
+<!--BOUTTONS-->
+<div>
+<a href="file:///C:/Users/FAMILLE/OneDrive/Documents/00-ALEXIS/Site%20Web/Connexion%20Page.html">
+    <button>
+    CONNEXION
+    </button>
+</a>
+<a href="file:///C:/Users/FAMILLE/OneDrive/Documents/00-ALEXIS/Site%20Web/Creation%20de%20Compte.html">
+    <button>
+    NOUVEAU
+    </button>
+</a>
+</div>
+
+<br>
+
+<!--INFORMATIONS-->
+<h2>
+<footer>
+<p>
+    Pour plus d'informations rejoignez notre instagram <a href="https://instagram/alexis_oste/"><i>Là</i></a>
+</p>
+</footer>
+</h2>
+
+<h3>
+<p>
+   Pour une experience optimale vous pouvez mettre la page en plein ecran en appuyant sur f11
+</p> 
+</html>
