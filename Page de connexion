@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+      Connexion
+    </title>
+<!--LIEN CSS-->    
+<link rel="stylesheet" href="Style.css">
+<!--LIEN ECRITURE-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<!--TITRE CSS-->
+<body>
+<h1>
+    Connexion
+</h1>
+
+<!--PHRASE-->
+<h2>
+    <p>Heureux de vous revoir ! Pret a reprendre la bataille ?</p> 
+</h2>
+
+<!--FORMULAIRE-->
+<div>
+<form methode="post">
+    <input type="text" name="Username" id="enterUsername" placeholder="Username" required>
+
+    <br/>
+
+    <input type="password" name="password" id="enterPassword" placeholder="Password" required>
+</form>
+</div>
+
+<!--BOUTON CONNEXION-->
+<button type="submit" name="SendConnexion">
+    <a href="file:///C:/Users/FAMILLE/OneDrive/Documents/00-ALEXIS/Site%20Web/Forum.html">
+        CONNEXION
+    </a>
+</button>
