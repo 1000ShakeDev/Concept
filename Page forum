@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Forum 
+    </title>
+    <link rel="stylesheet" href="Forum.css">
+    <!--REFERENCE ECRITURE-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@100&family=Roboto+Condensed:wght@700&family=Roboto:wght@100&display=swap" rel="stylesheet">    
+</head>
+
+<body>
+
+<h1>
+    Salon de discussion
+</h1>
+
+<!--LIGNE DE CONTACTS-->
+<div class="Ligne-de-contacts">
+<h2>
+    <button type="button">
+        <button>
+            Leo
+        </button>
+
+    </button>
+</h2>
+</div>
+
+<!--APERCU DU CHAT BOX-->
+<div class="chat-global">
+    
+    
+    <div class="utilisateur">
+        <p>Leo</p>
+        <p>En Ligne</p>
+    </div>
+
+    <div class="conversation">
+        <div class="talk left">
+            <img src="Capture.JPG">
+            <p>Ceci est un Apercu du Chat Box</p>
+        </div>
+        <div class="talk right">
+            <img src="Capture2.JPG">
+            <p>Ceci est un Apercu du Chat Box</p>
+        </div>
+        <div class="talk left">
+            <img src="Capture.JPG">
+            <p>Ceci est un Apercu du Chat Box</p>
+        </div>
+        <div class="talk right">
+            <img src="Capture2.JPG">
+            <p>Ceci est un Apercu du Chat Box</p>
+        </div>
+    </div>
+    
+    <form class="chat-form">
+        <div class="container-input-stuffs">
+
+            <div class="group-inp">
+                <textarea placeholder="Entrez votre texte" minlength="1" maxlength="1500"></textarea>
+            </div>
+        </div>
+
+        <button class="submit-msg-btn">
+            <img src="Send_Button.png">
+        </button>
+</div>
+</body>
+
+<!--<div id="after_submit"></div>
+<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+  <div class="row">
+    <label class="required" for="name">Your name:</label><br />
+    <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+    <span id="name_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="email">Your email:</label><br />
+    <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+    <span id="email_validation" class="error_message"></span>
+  </div>
+  <div class="row">
+    <label class="required" for="message">Your message:</label><br />
+    <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+    <span id="message_validation" class="error_message"></span>
+  </div>
+    
+    <input id="submit_button" type="submit" value="Send email" />
+</form>-->
