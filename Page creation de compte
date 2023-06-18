@@ -1,0 +1,48 @@
+<!--code creation de compte-->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Concept</title>
+<!--REFEERENCE CSS-->
+  <link rel="stylesheet" href="stylesheet.css" />
+<!--TITRE DE LA PAGE-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+ 
+  <!--TITRE-->
+  <h1>
+    Inscription
+  </h1>
+  
+  <h2>
+  <p>
+    T'es nouveau ? Est tu pret a commencer une bataille sans merci ? 
+  <!--FORMULAIRE-->
+  <form method="post">
+    <input type="text" name="username" id="enterUsername" placeholder="Username" required>
+    
+    <br/>
+
+    <input type="text" name="contact" id="enterContact" placeholder="Email or Phone" required>
+
+    <br/>
+
+    <input type="password" name="password" id="enterPassword" placeholder="Password" required>
+
+    <br/>
+
+    <input type="password" name="repassword" id="enterRePassword" placeholder="Retype password" required>
+
+    <br/>
+
+    <button type="submit" name="sendSignIn">Sign in</button>
+  </form>
+
+</body>
+</html> 
