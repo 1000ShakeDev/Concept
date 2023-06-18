@@ -1,0 +1,32 @@
+body {
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 0px;
+    font-size: 50px;
+    font-weight: 250px;
+    border: 10px solid black;
+    border-radius: 11px;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;   
+
+}
+
+.chat-global {
+    width: 600px;
+    height: 700px;
+    margin: 0 auto;
+    border-radius: 25px;
+    box-shadow: 0 30px 70px 0px rgba(0, 0, 0, 0.2s);
+}
+
+img {
+    width: 30px;
+}
